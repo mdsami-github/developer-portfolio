@@ -12,7 +12,6 @@ body{
     color: orange;
 }
 section{
-    display: flex;
     margin-bottom: 150px;
 }
 .measure{
@@ -46,4 +45,17 @@ section{
 .div{
     padding-left: 100px;
     padding-right: 100px;
+}
+.sami{
+    color: red;
+    
+}
+.orange{
+    color: orange;
+}
+.mimi{
+    display: flex;
+}
+.misa{
+    display: flex;
 }
