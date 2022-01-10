@@ -46,10 +46,6 @@ section{
     padding-left: 100px;
     padding-right: 100px;
 }
-.sami{
-    color: red;
-    
-}
 .orange{
     color: orange;
 }
@@ -58,4 +54,23 @@ section{
 }
 .misa{
     display: flex;
+}
+.live{
+    box-shadow: 3px 5px 50px grey;
+    padding-right: 15px;
+    margin-right: 25px;
+    margin-left: 50px ;
+    padding-left: 10px ;
+    border-radius: 10px;
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+.bg{
+   background-image: url(images/exp-bg.png);
+   background-repeat: no-repeat;
+   background-position:left;
+}
+footer p {
+    text-align: center;
 }
